@@ -2,9 +2,299 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db76bb20-8fe7-4b04-a3bb-87f1634da023" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Number-Recognition" beforeDir="false" afterPath="$PROJECT_DIR$/Number-Recognition" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112161710.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112161715.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112161830.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112161841.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112161845.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112161848.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112161851.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112161854.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112161857.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112161900.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112161902.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112161905.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112161908.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112161911.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112161914.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112161916.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112161920.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112161923.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112161925.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162013.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162017.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162027.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162030.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162033.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162035.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162038.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162041.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162046.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162049.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162051.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162055.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162057.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162105.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162108.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162110.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162115.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162117.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162125.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162131.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162137.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162140.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162149.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162155.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162158.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162201.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162203.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162206.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162208.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162213.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162216.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162219.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162222.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162225.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162228.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162230.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162233.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162235.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162238.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162241.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162243.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162246.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162249.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162336.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162339.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162343.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162346.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162413.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162418.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162422.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162425.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162429.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162432.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162437.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162439.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162442.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162444.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162447.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162450.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162453.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162458.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162501.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162507.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162513.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162516.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162521.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162524.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162527.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162530.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162534.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162537.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162540.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162544.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162548.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162551.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162554.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112162558.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112165703.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112165708.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112165715.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112165720.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112165735.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112165742.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112165745.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112165748.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112165750.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112165753.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112165756.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112175410.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112175413.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112183409.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112183420.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112183428.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112183432.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112183436.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112183451.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112183541.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112183552.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112183556.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112183559.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112183628.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112183634.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112211010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112211015.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112211018.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112211023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112211026.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112211029.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112211033.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112211038.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112211041.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112211043.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112211045.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112211051.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112211053.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112214142.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112214146.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112214200.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112214217.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112214231.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112214245.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112214257.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181112214304.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114202.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114211.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114217.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114221.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114226.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114229.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114233.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114237.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114244.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114248.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114253.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114257.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114304.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114308.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114312.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114320.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114325.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114334.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114340.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114344.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114350.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114354.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114358.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114403.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114408.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114413.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114420.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114427.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114434.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114442.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114446.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114450.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114454.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114507.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114510.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114515.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114523.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114529.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114535.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114540.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114545.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114550.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114600.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114612.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114623.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114629.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114632.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114636.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114744.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113114755.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113115959.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113120006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113120012.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113120016.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113120021.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113120025.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113120030.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113120034.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113120037.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113120041.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113120045.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113120049.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113120053.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113120057.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113120103.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113120109.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113120115.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113120120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113120127.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113120132.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113120137.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113120140.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113120143.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113120147.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113120157.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113120202.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113120208.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113120213.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113120218.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113120221.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113120227.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113120230.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113120243.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113170817.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113170824.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113170829.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113170838.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113170845.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113170851.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113170856.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113170905.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113170910.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113170918.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113221917.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113221923.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113221930.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113221937.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113221944.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113221948.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113221953.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113221957.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113222005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113222009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113222012.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113222016.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113222020.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113222026.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113222032.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113222037.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181113222041.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181114174701.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181114174706.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181114174714.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181114174718.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181114180040.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181114180146.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181114180155.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181114180200.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181114180204.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181114180642.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181114180659.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181114180704.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181114180709.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181114180713.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181114180723.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181117162125.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181117171858.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181117171905.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181117171913.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181117171920.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181117171923.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181117171929.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181117171935.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181117190122.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181117190157.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181117190206.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181117190217.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181117190223.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181117190228.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/20181117190242.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageStore/image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,13 +306,13 @@
     <session id="1665956576">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.7" value="3" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -55,7 +345,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="377" />
-          <entry key="go" value="1850" />
+          <entry key="go" value="1856" />
           <entry key="html" value="662" />
           <entry key="js" value="646" />
         </counts>
@@ -63,7 +353,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="377" />
-          <entry key="Go" value="1850" />
+          <entry key="Go" value="1856" />
           <entry key="HTML" value="662" />
           <entry key="JavaScript" value="646" />
         </counts>
@@ -75,8 +365,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2327">
-              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            <state relative-caret-position="352">
+              <caret line="16" column="60" lean-forward="true" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
               <folding>
                 <element signature="e#14#180#0" expanded="true" />
               </folding>
@@ -91,11 +381,6 @@
               <caret line="482" column="14" selection-start-line="482" selection-start-column="14" selection-end-line="482" selection-end-column="14" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/imageStore/image.png">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -209,6 +494,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -225,7 +511,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -233,7 +518,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Kun" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../chengyang-li.github.io" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -278,9 +563,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27449664" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2785235" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -420,10 +704,11 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/imageStore/image.png" />
     <entry file="file://$PROJECT_DIR$/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2327">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        <state relative-caret-position="352">
+          <caret line="16" column="60" lean-forward="true" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
           <folding>
             <element signature="e#14#180#0" expanded="true" />
           </folding>
@@ -436,9 +721,6 @@
           <caret line="482" column="14" selection-start-line="482" selection-start-column="14" selection-end-line="482" selection-end-column="14" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imageStore/image.png">
-      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/../../../../../src/encoding/base64/base64.go">
       <provider selected="true" editor-type-id="text-editor">

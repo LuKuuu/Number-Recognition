@@ -101,7 +101,7 @@ func Similarity(fileName string)(LKmath.Matrix, int){
 		}
 	}
 
-	hw := LKmath.ReadFromJson("hwT800.json")
+	hw := LKmath.ReadFromJson("/home/Number-Recognition/Data/neural_network_data/","hwT800.json")
 
 	yHat, _ := hw.ForwardPropagation(X)
 	yHat.Hprint("yhat")
