@@ -1,62 +1,39 @@
 <!doctype html>
 
 <html>
-    <head>
-         <link rel="stylesheet" type="text/css" href="static/style.css">
-    </head>
+<head>
+    <link rel="stylesheet" type="text/css" href="static/style.css">
+</head>
 
-    <body>
-        <section>
-            <div id="drawingTools">
+<body>
+<section>
+    <div id="drawingTools">
+        <div id="tools">
+            <table width="100%">
+                <tr>
+                    <th width="50%">
+                        <button id="butt" onclick="cleanCanvas()">clean</button>
+                    </th>
+                    <th width="50%">
+                        <form method="post">
+                            <input id="op" type="hidden" name="pngValue" value="null">
+                            <input id="butt" type="submit" value="test">
+                        </form>
+                    </th>
+                </tr>
+            </table>
+        </div>
+    </div>
 
+    </div>
+    <canvas id="canvas" width="280" height="280"></canvas>
+    <div>
 
-                <div id="tools">
-                    <table width="100%" >
-                        <tr>
-                            <th width="50%">
-                                <button id="butt" onclick="cleanCanvas()">clean</button>
+    </div>
 
-                            </th>
-                            <th width="50%">
-                                <form method="post">
-                                    <input id="op" type="hidden" name="pngValue" value="null">
-                                    <input id="butt" type="submit"  value="test">
-                                </form>
-                            </th>
-                        </tr>
-                    </table>
+{{.Data}}
 
-                    </div>
-
-                </div>
-
-
-
-
-            </div>
-
-            <canvas id="canvas" width="280" height="280">
-
-            </canvas>
-
-            <div>
-
-            </div>
-
-        {{.Data}}
-
-
-
-
-
-
-
-
-
-
-        </section>
-
-    <script src="static/script.js"></script>
-
-    </body>
+</section>
+<script src="static/script.js"></script>
+</body>
 </html>

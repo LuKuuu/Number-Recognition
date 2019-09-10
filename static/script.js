@@ -1,45 +1,74 @@
-var canvas = document.getElementById('canvas');
-var context = canvas.getContext('2d');
-cleanCanvas()
+let canvas = document.getElementById('canvas');
+let context = canvas.getContext('2d');
+cleanCanvas();
 
+let drawing = false;
 context.lineWidth = 18;
-var down = false;
 
-canvas.addEventListener('mousemove', draw);
-
-
-canvas.addEventListener('mousedown', function () {
-    down = true;
+//for mouse
+function mouseDown() {
+    drawing = true;
     context.beginPath();
     context.moveTo(xPos, yPos);
-    canvas.addEventListener('mousemove', draw)
+}
 
-});
-
-canvas.addEventListener('mouseup',function () {
-    down=false;
-    output();
-});
-
-function draw(e) {
-    xPos = e.clientX - canvas.offsetLeft;
-    yPos = e.clientY - canvas.offsetTop;
-    if (down == true) {
+function mouseMove(e) {
+    let xPos = e.clientX - canvas.offsetLeft;
+    let yPos = e.clientY - canvas.offsetTop;
+    if (drawing) {
         context.lineTo(xPos, yPos);
         context.stroke();
     }
 }
 
+function mouseUp() {
+    drawing = false;
+    output();
+}
+
+//for touch screen
+function touchStart() {
+    drawing = true;
+    context.beginPath();
+    event.preventDefault();
+}
+
+function touchMove(e) {
+    if (e.touches && e.touches.length === 1) {
+        let touch = e.touches[0];
+        let touchX = touch.pageX - canvas.offsetLeft;
+        let touchY = touch.pageY - canvas.offsetTop;
+        if (drawing) {
+            context.lineTo(touchX, touchY);
+            context.stroke();
+        }
+    }
+    event.preventDefault();
+}
+
+function touchEnd() {
+    console.log("touchEnd");
+    drawing = false;
+    output();
+}
+
 function cleanCanvas() {
-    context.clearRect(0,0,canvas.width,canvas.height)
+    context.clearRect(0, 0, canvas.width, canvas.height)
     context.beginPath();
     context.rect(0, 0, canvas.width, canvas.height);
     context.fillStyle = "white";
     context.fill();
+    document.getElementById('op').value = "null";
 }
 
 function output() {
-    var data =canvas.toDataURL();
-    document.getElementById('op').value =data;
+    document.getElementById('op').value = canvas.toDataURL();
     // alert(data);
 }
+
+canvas.addEventListener('mousedown', mouseDown, false);
+canvas.addEventListener('mousemove', mouseMove, false);
+canvas.addEventListener('mouseup', mouseUp, false);
+canvas.addEventListener('touchstart', touchStart, false);
+canvas.addEventListener('touchmove', touchMove, false);
+canvas.addEventListener('touchend', touchEnd, false);
